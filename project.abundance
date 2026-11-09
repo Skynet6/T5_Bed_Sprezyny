@@ -6,7 +6,7 @@
   "name": "T5_Bed_Sprezyny",
   "ioValues": [
     {
-      "name": "Bed Extension",
+      "name": "",
       "ioValue": 0
     }
   ],
@@ -2006,7 +2006,7 @@
       "x": 0.0254,
       "y": 0.1538,
       "uniqueID": "id-1399",
-      "name": "Bed Extension",
+      "name": "",
       "type": "number",
       "options": []
     },

@@ -6,7 +6,7 @@
 
 ## Inputs
 
-- **Bed Extension** (number)
+- **** (number)
 
 
 
