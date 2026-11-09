@@ -6,8 +6,8 @@
 
 ## Inputs
 
-- **** (number)
-- **Lid Angle** (number)
+- **Bed_Extension** (number)
+- **Lid_Angle** (number)
 
 
 
