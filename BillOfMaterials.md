@@ -2,11 +2,11 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Śruba obrotowa M8 x 30 z tuleją (oś ramy listew wózka)|4|$0.00||
 |Blum system (Euro) screw 5 x 12 mm for hinge mounting plates|16|$0.00||
 |Wood screw 4 x 25 mm, countersunk, PZ2, zinc|13|$0.00||
 |Wood screw 3.5 x 12 mm, countersunk, PZ2, zinc (hinge screws)|18|$0.00||
 |Listwa sprężynująca 630 x 53 x 9 mm|28|$0.00||
+|U-bracket coupler, 2 mm steel, 40 mm wide (couples carriage slat frame to lid)|4|$0.00||
 |Uchwyt listwy sprężynującej 35 x 55 x 8 mm (komplet 2 szt.)|28|$0.00|https://allegro.pl/oferta/uchwyt-listwy-sprezynujacej-2-sztuki-13843625183|
 |Blum CLIP top BLUMOTION 110° soft-close full inset hinge 71B3750, with mounting plate|4|$0.00|https://www.cabinetparts.com/p/blum-hinges-european-cabinet-hinges-BH71B3750-p6667|
 |Blum CLIP top BLUMOTION soft-close inset blind corner hinge 79B9550, with mounting plate|4|$0.00|https://www.cabinetparts.com/p/blum-hinges-european-cabinet-hinges-BH79B9550-p6776|
