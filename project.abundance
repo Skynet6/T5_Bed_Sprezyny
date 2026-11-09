@@ -11,7 +11,8 @@
     },
     {
       "name": "Lid_Angle",
-      "ioValue": 0
+      "ioValue": 0,
+      "currentEquation": "0"
     },
     {
       "name": "Slat_Frame_Angle",
