@@ -11,7 +11,7 @@
     },
     {
       "name": "Lid_Angle",
-      "ioValue": 0
+      "ioValue": 90
     }
   ],
   "topLevel": true,
@@ -4645,8 +4645,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            0,
-            -1
+            -1,
+            -1.1102230246251565e-16
           ]
         },
         {
@@ -4654,8 +4654,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            0,
-            -1
+            -1,
+            -1.1102230246251565e-16
           ]
         }
       ],
@@ -6151,7 +6151,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 0
+          "ioValue": 90
         }
       ],
       "currentEquation": "-x"
@@ -6224,7 +6224,7 @@
         },
         {
           "name": "x-axis degrees",
-          "ioValue": 0
+          "ioValue": -90
         },
         {
           "name": "y-axis degrees",
