@@ -7,6 +7,7 @@
 ## Inputs
 
 - **** (number)
+- **Lid Angle** (number)
 
 
 
