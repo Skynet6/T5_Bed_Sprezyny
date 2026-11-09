@@ -11,8 +11,7 @@
     },
     {
       "name": "Lid_Angle",
-      "ioValue": 90,
-      "currentEquation": "90"
+      "ioValue": 0
     }
   ],
   "topLevel": true,
@@ -4646,8 +4645,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            -1,
-            -1.1102230246251565e-16
+            0,
+            -1
           ]
         },
         {
@@ -4655,8 +4654,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            -1,
-            -1.1102230246251565e-16
+            0,
+            -1
           ]
         },
         {
@@ -4664,8 +4663,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            -1,
-            -1.1102230246251565e-16
+            0,
+            -1
           ]
         },
         {
@@ -4673,8 +4672,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            -1,
-            -1.1102230246251565e-16
+            0,
+            -1
           ]
         },
         {
@@ -4682,8 +4681,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            -1,
-            -1.1102230246251565e-16
+            0,
+            -1
           ]
         },
         {
@@ -4691,8 +4690,8 @@
           "faceCount": 6,
           "faceNormal": [
             0,
-            -1,
-            -1.1102230246251565e-16
+            0,
+            -1
           ]
         }
       ],
@@ -6220,7 +6219,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 90
+          "ioValue": 0
         }
       ],
       "currentEquation": "-x"
@@ -6309,7 +6308,7 @@
         },
         {
           "name": "x-axis degrees",
-          "ioValue": -90
+          "ioValue": 0
         },
         {
           "name": "y-axis degrees",
@@ -6757,7 +6756,7 @@
         },
         {
           "name": "x-axis degrees",
-          "ioValue": -90
+          "ioValue": 0
         },
         {
           "name": "y-axis degrees",
@@ -6802,7 +6801,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 90
+          "ioValue": 0
         },
         {
           "name": "y",
