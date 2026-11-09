@@ -4551,8 +4551,8 @@
           ]
         },
         {
-          "downwardFaceIndex": 4,
-          "faceCount": 6,
+          "downwardFaceIndex": 6,
+          "faceCount": 8,
           "faceNormal": [
             -1.0000000000000004,
             -2.2204460492503136e-16,
@@ -4560,8 +4560,8 @@
           ]
         },
         {
-          "downwardFaceIndex": 4,
-          "faceCount": 6,
+          "downwardFaceIndex": 6,
+          "faceCount": 8,
           "faceNormal": [
             -1.0000000000000004,
             -2.2204460492503136e-16,
@@ -4569,8 +4569,8 @@
           ]
         },
         {
-          "downwardFaceIndex": 4,
-          "faceCount": 6,
+          "downwardFaceIndex": 6,
+          "faceCount": 8,
           "faceNormal": [
             -1.0000000000000004,
             -2.2204460492503136e-16,
@@ -4578,8 +4578,8 @@
           ]
         },
         {
-          "downwardFaceIndex": 4,
-          "faceCount": 6,
+          "downwardFaceIndex": 6,
+          "faceCount": 8,
           "faceNormal": [
             -1.0000000000000004,
             -2.2204460492503136e-16,
@@ -8118,6 +8118,62 @@
           "topLevel": false,
           "allAtoms": [
             {
+              "atomType": "Rectangle",
+              "x": 0.15,
+              "y": 0.8,
+              "uniqueID": "id-5269",
+              "ioValues": [
+                {
+                  "name": "x length",
+                  "ioValue": 18
+                },
+                {
+                  "name": "y length",
+                  "ioValue": 19
+                }
+              ]
+            },
+            {
+              "atomType": "Move",
+              "x": 0.3,
+              "y": 0.8,
+              "uniqueID": "id-5273",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": 26
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 321.5
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": 0
+                }
+              ]
+            },
+            {
+              "atomType": "Difference",
+              "x": 0.4,
+              "y": 0.65,
+              "uniqueID": "id-5279",
+              "ioValues": [
+                {
+                  "name": "retain",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "remove",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                }
+              ]
+            },
+            {
               "atomType": "Output",
               "x": 0.98,
               "y": 0.5,
@@ -8137,7 +8193,7 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 595
+                  "ioValue": 622
                 },
                 {
                   "name": "y length",
@@ -8157,7 +8213,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": 342.5
+                  "ioValue": 329
                 },
                 {
                   "name": "yDist",
@@ -8253,13 +8309,28 @@
           "allConnectors": [
             {
               "ap2Name": "geometry",
+              "ap1ID": "id-5269",
+              "ap2ID": "id-5273"
+            },
+            {
+              "ap2Name": "remove",
+              "ap1ID": "id-5273",
+              "ap2ID": "id-5279"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-5279",
+              "ap2ID": "id-626"
+            },
+            {
+              "ap2Name": "geometry",
               "ap1ID": "id-616",
               "ap2ID": "id-620"
             },
             {
-              "ap2Name": "geometry",
+              "ap2Name": "retain",
               "ap1ID": "id-620",
-              "ap2ID": "id-626"
+              "ap2ID": "id-5279"
             },
             {
               "ap2Name": "geometry",
@@ -8332,8 +8403,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": 469.5,
-                  "currentEquation": "469.5"
+                  "ioValue": 469.5
                 },
                 {
                   "name": "yDist",
