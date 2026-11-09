@@ -8,6 +8,7 @@
 
 - **Bed_Extension** (number)
 - **Lid_Angle** (number)
+- **Slat_Frame_Angle** (number)
 
 
 
